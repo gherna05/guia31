@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio1b.css"?>
+<!-- ejercicio1b.xml  HL18006 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="19/01/2018">
+<nombre>Gabriela</nombre>
+<apellido>Hernandez</apellido>
+<direccion>Colonia San Francisco</direccion>
+<email>hl18006@ues.edu.sv</email>
+<telefono>26234796</telefono>
+<url>hl18006.ues.edu.sv</url>
+<celular>76400897</celular>
+</ficha>
+
+<ficha id="2" fechaingreso="15/08/2017">
+<nombre>Sara</nombre>
+<apellido>Raymundo</apellido>
+<direccion>Colonia Gloria</direccion>
+<email>tr17002@ues.edu.sv</email>
+<telefono>25865665</telefono>
+<url>st.blog.sv</url>
+<celular>78551452</celular>
+</ficha>
+
+<ficha id="2" fechaingreso="19/01/2018">
+<nombre>Juan</nombre>
+<apellido>Miranda</apellido>
+<direccion>Calle San Jose</direccion>
+<email>mc18047@ues.edu.sv</email>
+<telefono>22273637</telefono>
+<url>juan.mc.sv</url>
+<celular>78426363</celular>
+<dui>05945862-8</dui>
+<isss>20258963</isss>
+<afp>no posee</afp>
+</ficha>
+</fichero>

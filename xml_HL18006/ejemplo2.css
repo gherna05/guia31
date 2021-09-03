@@ -1,0 +1,5 @@
+/* ejemplo2.css   HL18006  */
+
+pais{background-color:rgb(190, 223, 241);}
+departamento{background-color:rgb(66, 116, 209); display:block;} cabecera {color:white; display:inline;} apellido {color:rgb(196, 196, 80); display:inline;}
+habitantes{color:yellow;font-size:1cm; display:none;}

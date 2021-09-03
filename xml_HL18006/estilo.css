@@ -1,0 +1,80 @@
+body {margin:0;}
+
+.navul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(129, 128, 134);
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.navli {
+float: left;
+}
+
+.navli a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.navli a:hover:not(.active) {
+background-color: #111;
+}
+
+.active {
+background-color: #c7dbff;
+}
+
+.fondo{
+    background-color: #3590bb;
+}
+
+.fondodiv{
+    background-color: white;
+    margin: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+iframe[src*="//youtube.com/"], iframe[src*="//www.youtube.com/"] {
+    display: block;
+    margin: 0 auto;
+ }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+  
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.regresarArriba{
+	text-align:center;
+}
+
+.footer{
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+}

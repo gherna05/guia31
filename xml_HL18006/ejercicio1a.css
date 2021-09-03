@@ -1,0 +1,4 @@
+/* ejercicio1a.css   HL18006  */
+fichero{background-color:rgb(90, 129, 189);}
+ficha{background-color:red; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion{color:yellow;font-size:1cm; display:none;}

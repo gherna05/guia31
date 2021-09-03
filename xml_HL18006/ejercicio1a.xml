@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="ejercicio1a.css"?>
+
+<!-- ejercicio1a.xml  HL18006 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="19/01/2018">
+<nombre>Gabriela</nombre>
+<apellido>Hernandez</apellido>
+<direccion>Colonia San Francisco</direccion>
+<email>hl18006@ues.edu.sv</email>
+<telefono>26234796</telefono>
+<url>hl18006.ues.edu.sv</url>
+<celular>76400897</celular>
+</ficha>
+</fichero>

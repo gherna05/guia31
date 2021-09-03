@@ -1,0 +1,33 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "272,554",
+				"altura": "665 MSNM",
+				"_id": "2",
+				"_nombre": "Santa Ana"
+			},
+			{
+				"cabecera": "San Miguel",
+				"habitantes": "265,921",
+				"altura": "129 MSNM",
+				"_id": "3",
+				"_nombre": "San Miguel"
+			}
+		],
+		"codigo_telefonico": "+503",
+		"moneda_oficial": "Dolar estadounidense",
+		"idioma_oficial": "Español",
+		"idioma_auténtico": "Nahuatl",
+		"segundo_idioma": "Inglés",
+		"_nombre": "El Salvador"
+	}
+}
